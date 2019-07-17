@@ -1,1 +1,31 @@
-"# russsian-mortgage-data" 
+Исторические данные по ипотечному кредитованию, пропарсенные из ["Единой информационной системы жилищного строительства"](https://xn--80az8a.xn--d1aqf.xn--p1ai/), которую поддерживает Минстрой России и Дом.РФ
+Данные представлены по регионам РФ в с января 2012 года по май 2019. 
+
+Поля: 
+
+totalCreditCount  
+totalCreditCountDeltaPct
+totalCreditAmount
+totalCreditAmountDeltaPct
+totalCreditAvgRate
+totalCreditAvgRateDelta
+yearCreditAmount
+yearCreditAmountDeltaPct
+primaryCreditCount
+secondaryCreditCount
+primaryCreditAmount
+secondaryCreditAmount
+primaryCreditAvgRate
+secondaryCreditAvgRate
+primaryCreditCountDeltaPct
+secondaryCreditCountDeltaPct
+primaryCreditAmountDeltaPct
+secondaryCreditAmountDeltaPct
+primaryCreditAvgRateDelta
+secondaryCreditAvgRateDelta
+yearCreditAvgRatePrimary
+yearCreditAvgRateSecondary
+yearCreditAvgRatePrimaryDelta
+yearCreditAvgRateSecondaryDelta
+
+
